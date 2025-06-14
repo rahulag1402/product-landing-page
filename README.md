@@ -29,4 +29,20 @@ This project was created to practice front-end web development fundamentals and 
 - ✅ Testimonials or gallery section
 - ✅ Footer with social links
 
+🧠 What I Learned
+- ✅ How to structure a modern landing page
+
+- ✅ Responsive design using media queries
+
+- ✅ Clean, semantic HTML & modular CSS
+
+- ✅ Basic interactivity with JavaScript (optional part)
+
+💡 Future Improvements
+Add animations for smoother UI
+
+Integrate form submission using backend or service
+
+Add dark mode toggle
+
 
